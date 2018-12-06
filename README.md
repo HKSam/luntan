@@ -8,10 +8,6 @@
 5. JDK：1.8
 6. tomcat：tomcat8
 
-#### 源码下载运行教程
-1. 参考之前的妖气山视频管理系统：https://www.bilibili.com/video/av26030969/
-2. 数据库文件在附件
-
 #### 特别说明
 1. 首次安装时，访问：域名/portal/install.action 用以创建管理员账号
 2. 演示地址：http://demo.javaex.cn/uscat/
