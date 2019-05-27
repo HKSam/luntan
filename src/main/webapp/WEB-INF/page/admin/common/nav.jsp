@@ -29,10 +29,8 @@
 			<li class="nav"><a href="${pageContext.request.contextPath}/admin/content.action">内容</a></li>
 			<li class="nav"><a href="${pageContext.request.contextPath}/admin/user.action">用户</a></li>
 			<li class="nav"><a href="${pageContext.request.contextPath}/admin/forum.action">论坛</a></li>
-			<li class="nav"><a href="${pageContext.request.contextPath}/admin/security.action">防灌水</a></li>
 			<li class="nav"><a href="${pageContext.request.contextPath}/admin/announce.action">运营</a></li>
-			<li class="nav"><a href="${pageContext.request.contextPath}/admin/api.action">接口</a></li>
-			<li class="nav"><a href="${pageContext.request.contextPath}/admin/founder.action">站长</a></li>
+
 		</ul>
 	</div>
 

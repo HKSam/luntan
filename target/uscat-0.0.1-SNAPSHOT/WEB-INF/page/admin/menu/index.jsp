@@ -16,7 +16,6 @@
 		<div class="admin-iframe-menu">
 			<ul class="menu">
 				<li class="active"><a href="javascript:page('${pageContext.request.contextPath}/admin/center.action');">管理中心首页</a></li>
-				<li><a href="javascript:page('${pageContext.request.contextPath}/admin/service.action');">收费服务</a></li>
 			</ul>
 		</div>
 

@@ -22,7 +22,7 @@ public class OpenAction {
 	private UploadInfoService uploadInfoService;
 	
 	/**
-	 * 上传本地图片到七牛云
+	 * 上传本地图片
 	 * @param file
 	 * @param type 类型
 	 * @return
