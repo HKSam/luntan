@@ -17,7 +17,7 @@
 			<div class="breadcrumb">
 				<span>全局</span>
 				<span class="divider">/</span>
-				<span class="active">七牛云上传设置</span>
+				<span class="active">上传设置</span>
 			</div>
 		</div>
 		
@@ -27,7 +27,7 @@
 			<div class="block">
 				<!--修饰块元素名称-->
 				<div class="banner">
-					<p class="tab fixed">七牛云上传设置</p>
+					<p class="tab fixed">上传设置</p>
 				</div>
 				<!--正文-->
 				<div class="main">

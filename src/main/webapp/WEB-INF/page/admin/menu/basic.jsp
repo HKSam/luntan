@@ -14,9 +14,7 @@
 	<div class="admin-iframe-content">
 		<div class="admin-iframe-menu">
 			<ul class="menu">
-				<li class="active"><a href="javascript:page('${pageContext.request.contextPath}/web_info/edit.action');">站点信息</a></li>
 				<li><a href="javascript:page('${pageContext.request.contextPath}/register_setting/edit.action');">注册设置</a></li>
-				<li><a href="javascript:page('${pageContext.request.contextPath}/seo_info/edit.action');">SEO设置</a></li>
 				<li><a href="javascript:page('${pageContext.request.contextPath}/point_info/edit.action');">积分设置</a></li>
 				<li><a href="javascript:page('${pageContext.request.contextPath}/upload_info/edit.action?type=qiniu');">上传设置</a></li>
 			</ul>
@@ -24,7 +22,7 @@
 		
 		<!--载入页面-->
 		<div class="admin-markdown">
-			<iframe id="page" src="${pageContext.request.contextPath}/web_info/edit.action"></iframe>
+			<iframe id="page" src="${pageContext.request.contextPath}/register_setting/edit.action"></iframe>
 		</div>
 	</div>
 	
